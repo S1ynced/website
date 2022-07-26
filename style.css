@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    font-family: 'VT323', monospace;
+    font-size: 24px;
+}
+
+.navigation-bar {
+    position: relative;
+    background-color: #8D8DAA;
+    margin: 0;
+    height: 50px;
+}
+
+.navigation-bar-contents {
+    position: relative;
+    top: 25%;
+    left: 66%;
+    color: black;
+    text-decoration: none;
+}
+
+.navigation-bar-contents:hover {
+    color: #DFDFDE;
+}
+
+.hello-world {
+    left: 0;
+}
+
+a {
+    margin: 0 0 0 30px;
+    padding: 0;
+}
+
+.header-container {
+    position: relative;
+    margin: 0;
+    background-color: #DFDFDE;
+    height: 400px;
+}
+
+.header-title {
+    position: relative;
+    top: 100px;
+    font-size: 120px;
+    width: 550px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header-subtitle {
+    position: relative;
+    line-height: 1;
+    top: 100px;
+    font-size: 50px;
+    width: 275px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.middle-container {
+    position: relative;
+    background-color: #F7F5F2;
+    margin: 0;
+    height: 300px;
+}
+
+.bio {
+    position: relative;
+    margin: 0 30px;
+    top: 50px;
+}
+
+.skyTab {
+    color: #e72559;
+}
